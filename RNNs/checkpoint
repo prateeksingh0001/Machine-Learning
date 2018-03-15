@@ -1,0 +1,6 @@
+model_checkpoint_path: "\\two-layer-lstm-medium-config-60-epoch-0p93-lr-decay-10-max-lr-5"
+all_model_checkpoint_paths: "\\two-layer-lstm-medium-config-60-epoch-0p93-lr-decay-10-max-lr-1"
+all_model_checkpoint_paths: "\\two-layer-lstm-medium-config-60-epoch-0p93-lr-decay-10-max-lr-2"
+all_model_checkpoint_paths: "\\two-layer-lstm-medium-config-60-epoch-0p93-lr-decay-10-max-lr-3"
+all_model_checkpoint_paths: "\\two-layer-lstm-medium-config-60-epoch-0p93-lr-decay-10-max-lr-4"
+all_model_checkpoint_paths: "\\two-layer-lstm-medium-config-60-epoch-0p93-lr-decay-10-max-lr-5"
